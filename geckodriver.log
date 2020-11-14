@@ -1,0 +1,162 @@
+1605353584946	geckodriver	INFO	Listening on 127.0.0.1:42823
+1605353584949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem5FAHy"
+
+(firefox:40447): Gtk-WARNING **: 18:33:05.573: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605353587003	Marionette	INFO	Listening on port 42375
+1605353587088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605353963737	Marionette	INFO	Stopped listening on port 42375
+1605355414378	geckodriver	INFO	Listening on 127.0.0.1:33691
+1605355414381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIuw7eo"
+
+(firefox:45831): Gtk-WARNING **: 19:03:35.009: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355416528	Marionette	INFO	Listening on port 35299
+1605355416614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+1605355493816	geckodriver	INFO	Listening on 127.0.0.1:42695
+1605355493829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile158pbi"
+
+(firefox:46288): Gtk-WARNING **: 19:04:54.429: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355495736	Marionette	INFO	Listening on port 39281
+1605355495860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+1605355601797	geckodriver	INFO	Listening on 127.0.0.1:52037
+1605355601802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewffRHZ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355603327	Marionette	INFO	Listening on port 36937
+1605355603427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 5647 > eval line 1 > eval, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://pagead2.googlesyndication.com/bg/v7XFf-AwRxQsr3Xfe8iFlb3XBumFU3QInyZITO-cflk.js line 1 > eval line 5647 > eval line 1 > eval, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1605355614876	Marionette	INFO	Stopped listening on port 36937
+[Parent 46917, MediaDecoderStateMachine #1] WARNING: Decoder=7f535ca79800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+
+(firefox:46917): GLib-GObject-CRITICAL **: 19:06:54.988: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+console.warn: "IGNORED REDUX ACTION:" "MESSAGES_ADD"
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+1605355623489	geckodriver	INFO	Listening on 127.0.0.1:58781
+1605355623494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemFaMRb"
+
+(firefox:47310): Gtk-WARNING **: 19:07:03.986: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355625535	Marionette	INFO	Listening on port 40445
+1605355625649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605355636452	Marionette	INFO	Stopped listening on port 40445
+[Parent 47310, MediaDecoderStateMachine #1] WARNING: Decoder=7f09b1ef2c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 47482, MediaDecoderStateMachine #1] WARNING: Decoder=7fcdb8135000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+console.warn: "IGNORED REDUX ACTION:" "AUTOCOMPLETE_CLEAR"
+1605355642675	geckodriver	INFO	Listening on 127.0.0.1:43885
+1605355642680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2k6cd0"
+
+(firefox:47747): Gtk-WARNING **: 19:07:23.172: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355644727	Marionette	INFO	Listening on port 35717
+1605355644814	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 47747, MediaDecoderStateMachine #1] WARNING: Decoder=7f9ef808e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1605355751299	geckodriver	INFO	Listening on 127.0.0.1:51503
+1605355751305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2sZSXJ"
+
+(firefox:48240): Gtk-WARNING **: 19:09:11.813: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355753305	Marionette	INFO	Listening on port 33677
+1605355753329	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1605355769639	Marionette	INFO	Stopped listening on port 33677
+1605355796703	geckodriver	INFO	Listening on 127.0.0.1:53043
+1605355796708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRMJe5e"
+
+(firefox:48681): Gtk-WARNING **: 19:09:57.211: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355798600	Marionette	INFO	Listening on port 35097
+1605355798664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+[Parent 48681, MediaDecoderStateMachine #1] WARNING: Decoder=7fc1deaf2800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1605355909597	geckodriver	INFO	Listening on 127.0.0.1:45875
+1605355909602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA9tuRG"
+
+(firefox:49145): Gtk-WARNING **: 19:11:50.129: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355911692	Marionette	INFO	Listening on port 35295
+1605355911742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+1605355943483	geckodriver	INFO	Listening on 127.0.0.1:60575
+1605355943489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefmK7Rh"
+
+(firefox:49705): Gtk-WARNING **: 19:12:23.986: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605355945610	Marionette	INFO	Listening on port 44723
+1605355945712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+[Parent 49705, MediaDecoderStateMachine #1] WARNING: Decoder=7f5043f20400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1605356099784	geckodriver	INFO	Listening on 127.0.0.1:40531
+1605356099791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY9ImLN"
+
+(firefox:50168): Gtk-WARNING **: 19:15:00.333: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605356101859	Marionette	INFO	Listening on port 36785
+1605356101924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+[Parent 50168, MediaDecoderStateMachine #1] WARNING: Decoder=7f1917930000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1605356234929	geckodriver	INFO	Listening on 127.0.0.1:51437
+1605356234937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoPnHez"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605356236578	Marionette	INFO	Listening on port 43199
+1605356236688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+[Parent 50863, MediaDecoderStateMachine #1] WARNING: Decoder=7f703da86000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+
+(firefox:50863): GLib-GObject-CRITICAL **: 19:17:27.736: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1605356275621	geckodriver	INFO	Listening on 127.0.0.1:60057
+1605356275627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5h8fjV"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605356277266	Marionette	INFO	Listening on port 44917
+1605356277363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+[Parent 51313, MediaDecoderStateMachine #1] WARNING: Decoder=7f72b1c87000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+
+(firefox:51313): GLib-GObject-CRITICAL **: 19:18:08.500: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1605361694320	geckodriver	INFO	Listening on 127.0.0.1:44749
+1605361695324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCD7B1l"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605361697506	Marionette	INFO	Listening on port 37173
+1605361697561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+1605361715064	geckodriver	INFO	Listening on 127.0.0.1:47641
+1605361715070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHOIYWy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605361716955	Marionette	INFO	Listening on port 33255
+1605361717000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 231: unreachable code after return statement
+[Parent 7588, MediaDecoderStateMachine #1] WARNING: Decoder=7fb9ccd27c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+
+(firefox:7588): GLib-GObject-CRITICAL **: 20:48:48.322: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1605361981097	geckodriver	INFO	Listening on 127.0.0.1:33847
+1605361981101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2mRtrJ"
+
+(firefox:8852): Gtk-WARNING **: 20:53:01.579: Theme file for DMZ-White has no directories
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605361983008	Marionette	INFO	Listening on port 33755
+1605361983128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 228: unreachable code after return statement
+JavaScript warning: https://banggia.vps.com.vn/dist/js/pages/router.js?v=1.6.20201102, line 228: unreachable code after return statement
+[Parent 8852, MediaDecoderStateMachine #1] WARNING: Decoder=7f66b60b8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - mozilla::MediaResult mozilla::RemoteAudioDecoderChild::InitIPDL(const mozilla::AudioInfo &, const CreateDecoderParams::OptionSet &): RemoteDecoderManager is not available.: file /build/firefox-YODJ7O/firefox-82.0.3+build1/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1605365667189	Marionette	INFO	Stopped listening on port 33755
